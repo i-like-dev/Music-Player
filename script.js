@@ -21,30 +21,10 @@ play.addEventListener('click', () => {
 });
 
 const playList = [{
-    artist: 'NEFFEX',
-    cover: 'cover/sddefault.jpg',
-    musicName: 'Losing My Mind',
-    musicPath: 'music/Losing My Mind.mp3'
-},{
-    artist: 'NEFFEX',
-    cover: 'cover/maxresdefault.jpg',
-    musicName: 'Chasing',
-    musicPath: 'music/Chasing.mp3'
-},{
-    artist: 'NEFFEX',
-    cover: 'cover/As You Fade Away.jpg',
-    musicName: 'As You Fade Away',
-    musicPath: 'music/As You Fade Away.mp3'
-},{
-    artist: 'NEFFEX',
-    cover: 'cover/Good Day.jpg',
-    musicName: 'Good Day (Wake Up)',
-    musicPath: 'music/Good Day (Wake Up).mp3'
-},{
-    artist: 'NEFFEX',
-    cover: 'cover/Winning.jpg',
-    musicName: 'Winning',
-    musicPath: 'music/Winning.mp3'
+    artist: 'Fitz and the Tantrums',
+    cover: 'handclap.jpeg',
+    musicName: 'HandClap',
+    musicPath: 'videoplayback.mp4'
 }]
 
 const playMusic = () => {
